@@ -2,12 +2,12 @@
   "games": [
     {
       "id": "snake",
-      "title": "Snake",
-      "description": "Classic Snake with keyboard and touch controls.",
+      "name": "Snake",
+      "description": "Classic Snake with keyboard and touch controls, local high score and fullscreen play.",
       "category": "Arcade",
-      "url": "games/snake/",
-      "featured": true,
-      "fullscreen": true
+      "controls": "Keyboard · Touch",
+      "icon": "🐍",
+      "path": "games/snake/"
     }
   ]
 }
