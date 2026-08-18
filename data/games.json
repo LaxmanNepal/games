@@ -15,7 +15,7 @@
       "description": "Classic Snake with keyboard and touch controls, local high score and fullscreen play.",
       "category": "Arcade",
       "controls": "Keyboard · Touch",
-      "logo": "",
+      "logo": "games/snake/logo.svg",
       "path": "games/snake/"
     }
   ]
