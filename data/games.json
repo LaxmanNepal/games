@@ -1,3 +1,13 @@
 {
-  "games": []
+  "games": [
+    {
+      "id": "snake",
+      "title": "Snake",
+      "description": "Classic Snake with keyboard and touch controls.",
+      "category": "Arcade",
+      "url": "games/snake/",
+      "featured": true,
+      "fullscreen": true
+    }
+  ]
 }
