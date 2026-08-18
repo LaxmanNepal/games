@@ -12,7 +12,7 @@
     {
       "id": "snake",
       "name": "Snake",
-      "description": "Play this game directly in your browser.",
+      "description": "Classic Snake with keyboard and touch controls, local high score and fullscreen play.",
       "category": "Arcade",
       "controls": "Keyboard · Touch",
       "logo": "",
