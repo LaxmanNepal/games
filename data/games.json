@@ -1,12 +1,21 @@
 {
   "games": [
     {
-      "id": "snake",
-      "name": "Snake",
-      "description": "Classic Snake with keyboard and touch controls, local high score and fullscreen play.",
+      "id": "jeep-in-the-jungle",
+      "name": "Jeep In The Jungle",
+      "description": "Play this game directly in your browser.",
       "category": "Arcade",
       "controls": "Keyboard · Touch",
-      "icon": "🐍",
+      "logo": "",
+      "path": "games/jeep-in-the-jungle/"
+    },
+    {
+      "id": "snake",
+      "name": "Snake",
+      "description": "Play this game directly in your browser.",
+      "category": "Arcade",
+      "controls": "Keyboard · Touch",
+      "logo": "",
       "path": "games/snake/"
     }
   ]
