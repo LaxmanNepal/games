@@ -1,0 +1,6 @@
+{
+  "name": "Snake",
+  "description": "Classic Snake with keyboard and touch controls, local high score and fullscreen play.",
+  "category": "Arcade",
+  "controls": "Keyboard · Touch"
+}
